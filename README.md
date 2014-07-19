@@ -1,4 +1,3 @@
 Hello-World
 ===========
-
-My First Repository
+I am new to programming. Please help me :)
